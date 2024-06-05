@@ -1,4 +1,4 @@
-/*Given a positive integer N, count all possible distinct binary strings of length N such that there are no consecutive 1’s.
+/*Given a positive integer N, count all possible distinct binary strings of length N such that there are no consecutive 1â€™s.
 This problem can be solved using Dynamic Programming.
 Let a[i] be no. of binary strings of length i which don't contain any two consecutive 1s & which end in 0 & b[i] be the no. of such strings which end in 1.
 We can append either 0 or 1 to a string ending in 0(because we can have consecutive 0s as well as a combination of 0s and 1s),but we can only append 0 to
