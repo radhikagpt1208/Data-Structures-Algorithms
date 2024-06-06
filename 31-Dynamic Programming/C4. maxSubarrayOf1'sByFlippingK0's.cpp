@@ -21,8 +21,8 @@ int maxSubarray(int arr[], int n, int k){
                 max_len = r-l+1;
                 best_len = l;
             }
-			continue;
-		}
+	    continue;
+	}
         else if(arr[r] == 0){
             zero_count++;
             while(zero_count > k){
@@ -37,13 +37,13 @@ int maxSubarray(int arr[], int n, int k){
                 max_len=r-l+1;
                 best_len=l;
             }
-    }
-   // cout<<"l = "<<l<<" r =  "<<r<<endl;
-    //to modfiy 0 to 1
-    for(int i = best_len; i < best_len + max_len; i++){
-        arr[i] = 1;
-    }
-    return max_len;
+    	}
+   	// cout<<"l = "<<l<<" r =  "<<r<<endl;
+    	//to modfiy 0 to 1
+    	for(int i = best_len; i < best_len + max_len; i++){
+        	arr[i] = 1;
+    	}
+    	return max_len;
 }
 
 int main(){
