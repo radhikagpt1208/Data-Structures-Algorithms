@@ -34,16 +34,16 @@ int maxSubarray(int arr[], int n, int k){
             }
         }
        if(max_len < r-l+1){
-                max_len=r-l+1;
-                best_len=l;
-            }
-    	}
-   	// cout<<"l = "<<l<<" r =  "<<r<<endl;
-    	//to modfiy 0 to 1
-    	for(int i = best_len; i < best_len + max_len; i++){
-        	arr[i] = 1;
-    	}
-    	return max_len;
+            max_len=r-l+1;
+            best_len=l;
+        }
+    }
+   // cout<<"l = "<<l<<" r =  "<<r<<endl;
+   //to modfiy 0 to 1
+   for(int i = best_len; i < best_len + max_len; i++){
+        arr[i] = 1;
+    }
+    return max_len;
 }
 
 int main(){
