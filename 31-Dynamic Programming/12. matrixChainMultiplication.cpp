@@ -10,7 +10,7 @@ the matrices. However, the cost to compute Z may vary according to the order in 
 Now since, it is ensured that for every matrix to get multiplied, we have rows(i) = columns(i-1)th matrix or col(i-1)th matrix = row(i)th matrix
 because for matrix multiplication to occur, no. of columns in the preceding matrix should be equal to the no. of rows in the following matrix.
 Hence,if we have  sequence of 4 matrices as A1(4 X 2),A2(2 X 3),A3(3 X 1),A4(1 x3), then we only require the no. of rows in each matrix and the no of rows and no. of columns in the last matrix for the
-input array. Hence for n matrices gives, we only require (n+1) dimensions and for the above example, input = 4, 2, 1, 1, 3.
+input array. Hence for n matrices gives, we only require (n+1) dimensions and for the above example, input = 4, 2, 3, 1, 3.
 The dimension of the columns of all the matrices can be known by the dimension of the rows given.
 Recursion says that we can break the matrices at every point and recursively compute the answer for the remaining matrices.
 To solve this question using DP, we will form a matrix of dimension n X n where n is the no. of matrices and matrix[i][j] denotes the minimum cost of
