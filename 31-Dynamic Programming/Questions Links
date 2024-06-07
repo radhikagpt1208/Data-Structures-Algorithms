@@ -12,7 +12,7 @@ Extra: https://leetcode.com/problems/min-cost-climbing-stairs/
 10. Min cost path - https://www.geeksforgeeks.org/min-cost-path-dp-6/ (Similar)
 11. Rat and elephant ways - https://github.com/radhikagpt1208/Data-Structures-Algorithms/blob/master/31-Dynamic%20Programming/GridDp-2Rat%26ElephantWays.cpp
 12. Robot and Paths - https://www.codechef.com/problems/CD1IT4/
-13.  Count number of binary strings - https://www.geeksforgeeks.org/count-number-binary-strings-without-consecutive-1s/
+13. Count number of binary strings - https://www.geeksforgeeks.org/count-number-binary-strings-without-consecutive-1s/
 14. 0-1 Knapsack - https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
 ** 15. 0-N Knapsack - https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed/
 16. LCS of 3 strings - https://www.geeksforgeeks.org/problems/lcs-of-three-strings0028/1?
@@ -20,3 +20,7 @@ Extra: https://leetcode.com/problems/min-cost-climbing-stairs/
 18. Min jumps required - https://leetcode.com/problems/jump-game-ii/description/
 Extra: https://www.geeksforgeeks.org/minimum-cost-for-hopping-frog-to-reach-stair-n/
 19. Optimal game strategy - https://www.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1
+20. Longest subsegment of ‘1’s formed by changing at most k ‘0’s - https://leetcode.com/problems/max-consecutive-ones-iii/description/
+21. Tilling problem - https://www.geeksforgeeks.org/count-number-ways-tile-floor-size-n-x-m-using-1-x-m-size-tiles/
+22. Minimum money needed - https://www.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag1956/1
+23. Longest Common Subsequence with at most k changes allowed: https://www.geeksforgeeks.org/longest-common-subsequence-with-at-most-k-changes-allowed/
