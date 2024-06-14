@@ -1,0 +1,41 @@
+Striver videos + coding blocks mixed: 
+
+1. Number of islands - https://leetcode.com/problems/number-of-islands/
+2. Flood fill - https://leetcode.com/problems/flood-fill/
+3. Rotten oranges - https://www.geeksforgeeks.org/problems/rotten-oranges2536/1
+4. Cycle detection in undirected graph - https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
+5. Cycle detection in directed graph - https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
+6. Single source shortest path using BFS - https://www.geeksforgeeks.org/shortest-path-unweighted-graph/
+7. Snakes and Ladders - 
+8. Distance of nearest cell having 1 - https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1
+9. Replace Os with Xs - https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1
+10. Number Of Enclaves - https://www.geeksforgeeks.org/problems/number-of-enclaves/1
+11. Number of Distinct Islands - https://www.geeksforgeeks.org/problems/number-of-distinct-islands/0
+12. Check if graph is a Bipartite Graph - https://leetcode.com/problems/is-graph-bipartite/
+13. Find eventual safe states - https://leetcode.com/problems/find-eventual-safe-states/description/ (TO-DO) 
+    Another way for 13 - https://www.youtube.com/watch?v=2gtg3VsDGyc&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=25
+14. Topological sort using BFS - https://github.com/radhikagpt1208/Data-Structures-Algorithms/blob/master/0.30.%20Graph%20Algorithms/0.9.%20topologicalSortUsingBFS.cpp
+15. Topological sort using DFS - https://www.geeksforgeeks.org/problems/topological-sort/1
+16. Cycle detection using Topological sort - https://www.youtube.com/watch?v=iTBaI90lpDQ&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=23
+17. Course Schedule 1 (find if there way is a possible way or no) - https://leetcode.com/problems/course-schedule/description/ OR https://www.geeksforgeeks.org/problems/prerequisite-tasks/0
+18. Course Schedule 2 (find ordering)-  https://leetcode.com/problems/course-schedule-ii/description/ OR https://www.geeksforgeeks.org/problems/course-schedule/1
+19. Alien dictionary - https://www.geeksforgeeks.org/problems/alien-dictionary/1
+
+20. Shortest path in a DIRECTED WEIGHTED/UNWEIGHTED Acyclic Graph (Topo approach) - https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1 
+    [Video: https://www.youtube.com/watch?v=ZUFQfFaU-8U&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=27]
+
+21. Shortest path in UNDIRECTED UNWEIGHTED Graph - https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1
+    (this can be done using simple bfs since the graph is unweighted. topo aproach will not be used since there might be a cycle)
+
+Note: Use dijkstras algo only when there might be a cycle because above approach won't work (topological sort is only for acyclic graphs). Above approach has a better complexity than dijkstras. 
+
+22. Shortest path in UNDIRECTED WEIGHTED GRAPH using DIJKSTRA - https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1
+
+Note: Dijkstras is not applicable to graphs with negative weight cycles. Time complexity of Dijkstra - O(ElogV)
+
+23. Print shortest path between source and des in UNDIRECTED WEIGHTED GRAPH - https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1
+24. Shortest Distance in a Binary Maze - https://www.geeksforgeeks.org/problems/shortest-path-in-a-binary-maze-1655453161/1
+25. ** Path With Minimum Effort - https://www.geeksforgeeks.org/problems/path-with-minimum-effort/1
+26. Cheapest Flights Within K Stops - https://www.geeksforgeeks.org/problems/cheapest-flights-within-k-stops/1 OR https://leetcode.com/problems/cheapest-flights-within-k-stops/description/
+27. Minimum Multiplications to reach End - https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1
+28. Number of Ways to Arrive at Destination - https://www.geeksforgeeks.org/problems/number-of-ways-to-arrive-at-destination/1
