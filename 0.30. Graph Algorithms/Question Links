@@ -39,3 +39,19 @@ Note: Dijkstras is not applicable to graphs with negative weight cycles. Time co
 26. Cheapest Flights Within K Stops - https://www.geeksforgeeks.org/problems/cheapest-flights-within-k-stops/1 OR https://leetcode.com/problems/cheapest-flights-within-k-stops/description/
 27. Minimum Multiplications to reach End - https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1
 28. Number of Ways to Arrive at Destination - https://www.geeksforgeeks.org/problems/number-of-ways-to-arrive-at-destination/1
+29. Disjoint Union set - https://github.com/radhikagpt1208/Data-Structures-Algorithms/blob/master/0.30.%20Graph%20Algorithms/0.17.%20optimisationInDSU.cpp 
+                       - https://www.youtube.com/watch?v=aBxjDBC4M1U&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=46
+30. Number of provinces (uisng dsu) - https://www.geeksforgeeks.org/problems/number-of-provinces/1
+31. Number of Operations to Make Network Connected - https://www.geeksforgeeks.org/problems/connecting-the-graph/1
+32. Account Merge - https://www.geeksforgeeks.org/problems/account-merge/1
+33. Number of Islands - II (Online Queries) - geeksforgeeks.org/problems/number-of-islands/1
+34. Word Ladder I - geeksforgeeks.org/problems/word-ladder/1
+
+TODO - Minimum spanning tree (N nodes, N-1 edges such that there is path from every node to every other node) - Prims and Kruskal 
+
+Start Neetcode questions after this. 
+
+IMP NOTE:
+In a grid of size n*m, if you have {i, j} then corresponding cell number is → (i * m) + j
+If you have cell no ‘x’, then i = (x / m) and j = x % m
+
